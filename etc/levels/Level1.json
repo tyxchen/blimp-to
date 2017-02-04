@@ -1,0 +1,10 @@
+{
+	"time": 30,
+	"ammo": 10,
+	"waves": 1,
+	"blimps": 5,
+	"bombs": 0,
+	"maxBlimpY": 100,
+	"maxBlimpRange": 200,
+	"delayBetweenBlimps": 5
+}
